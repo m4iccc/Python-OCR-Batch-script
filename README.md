@@ -1,5 +1,3 @@
-Okay, here's the GitHub-style description in English:
-
 🖼️📄 Batch OCR & Text Compiler GUI 🚀
 
 Transform folders full of images into organized text with a single click! This desktop application with a modern graphical interface allows you to batch OCR (Optical Character Recognition) all images within a folder and then compile all extracted text into a single, chronologically sorted file. 🇪🇸🇬🇧 Supports OCR in Spanish and English.
