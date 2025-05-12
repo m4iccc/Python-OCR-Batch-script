@@ -57,8 +57,8 @@ Transform folders full of images into organized text with a single click! This d
 
 1.  **Clone the Repository (or download the `.py` file):**
     ```bash
-    git clone https://[YOUR-REPO-URL-HERE].git
-    cd [YOUR-REPO-DIRECTORY-NAME]
+    git clone https://github.com/m4iccc/Python-OCR-Batch-script.git
+    cd Python-OCR-Batch-script
     ```
     (Replace the URL and directory name accordingly)
 
@@ -72,7 +72,7 @@ Transform folders full of images into organized text with a single click! This d
 3.  **Run the Application:**
     Navigate to the directory containing the script in your terminal and run:
     ```bash
-    python ocr_compiler_gui_singlefile_modtime_sort_es_unique_txt.py
+    python Python OCR Batch script.py
     ```
     *(Make sure to use the correct filename if you saved it differently).*
 
